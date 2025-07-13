@@ -1,4 +1,4 @@
-# submissions
+# SUBMISSIONS
 
 # 📤 Project Submissions
 
