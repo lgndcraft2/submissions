@@ -2,7 +2,7 @@ name: Auto Add PRs to Project Board
 
 on:
   pull_request:
-    types: [opened, reopened]
+    types: [opened, reopened, synchronize]
 
 jobs:
   add_to_project:
