@@ -39,7 +39,7 @@ submissions/team-phoenix/
 
 ## ⏳ Deadline
 
-📅 Final submission deadline: **[Insert your deadline here]**  
+📅 Final submission deadline: **Oct 7th**  
 🛠 You may update your PR until the deadline.
 
 ---
