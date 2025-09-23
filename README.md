@@ -57,7 +57,7 @@ Use one of our ready-made starter kits to get up and running quickly:
 
 ## 🧠 Tips
 
-- You can work as a team or solo
+- You can work as a team 
 - Make sure your folder name is unique
 - Submissions will be reviewed directly from your PR
 
